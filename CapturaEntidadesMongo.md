@@ -1,4 +1,5 @@
 TAREA 1
+
 {
 	'id': "SensorTemp1",
 	'tipo': "SensorTemperatura",
