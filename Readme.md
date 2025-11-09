@@ -48,3 +48,5 @@ Entidades en Mongo
 
 <img width="1919" height="1002" alt="image" src="https://github.com/user-attachments/assets/7e854785-bfda-4c15-9a88-10f133d1f2a4" />
 
+Respecto al código de python he subido el archivo, me he tenido que respaldar usando algo de IA porque se me hizo imposible realizar de forma propia lo de simular las 400 actualizaciones en más tiempo.
+
