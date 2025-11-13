@@ -1,0 +1,7 @@
+Crea una hoja de calculo llamada DATA_LINEAGE en tu proyecto de GitHub y rellenala con el flujo de linaje. Rellena los detalles de cada transformación que, idealmente, se aplicaría en la Capa Plata a la nota numérica de las calificaciones. Aqui tienes un ejemplo:
+
+Etapa / Fichero	Origen	Transformaciones Clave Aplicadas	Destino	Responsable de la Transformación
+Inicio: Fichero CSV Calificaciones	./xxxx/xxx	Ninguna. Datos volcados directamente.	N/A	Ingesta (e.g., Apache NiFi)
+Transformación (1)		Describe una limpieza o validación que aplicarías		Ingeniero de Datos
+Transformación (2)		Describe una validación de calidad		Ingeniero de Datos
+Agregación Final		Describe la agregación necesaria para la Capa Oro		Analista BI / Científico de Datos
